@@ -1,0 +1,1 @@
+delete from Logs where id_User=2
